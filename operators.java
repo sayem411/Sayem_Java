@@ -17,5 +17,21 @@ public class operators {
         double d =3;
         double modulo=c%d;
         System.out.println(modulo);
+//pre incriment,post increment,pre decrement, post decrement
+        int numb =5;
+        //numb++;
+       // ++numb;
+          System.out.println(numb++);
+           System.out.println(numb);
+        int num=9;
+             System.out.println(++num);
+           System.out.println(num);
+        int n=3;
+            System.out.println(n--);
+           System.out.println(n);
+
+        int number=7;
+            System.out.println(--number);
+           System.out.println(number);
     }
 }
