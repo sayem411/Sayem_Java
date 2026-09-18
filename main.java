@@ -56,7 +56,8 @@ public class main {
 
          //Substring
          String name4 ="Aman And Akku";
-         System.out.println(name4.Substring(0,4));
+         System.out.println(name4.substring(0,4));
+         
           
     }
 }
