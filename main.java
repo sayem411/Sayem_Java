@@ -34,7 +34,7 @@ public class main {
 
 
         //Non- primitive types
-        String name ="Sayem"
+        String name ="Sayem";
         String friend =new String("Sayem");
 
 
