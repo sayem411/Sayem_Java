@@ -52,6 +52,11 @@ public class main {
          //string replace
          String namee1=name.replace('m','b');
          System.out.println(namee1);
+         System.out.println(namee);
+
+         //Substring
+         String name4 ="Aman And Akku";
+         System.out.println(name4.Substring(0,4));
           
     }
 }
