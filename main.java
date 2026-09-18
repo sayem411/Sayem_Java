@@ -36,10 +36,22 @@ public class main {
         //Non- primitive types
         String name ="Sayem";
         String friend =new String("Sayem");
-
-
+    
         System.out.println(name.length());
 
+        //string concatenate
+        String name1="Almas ";
+         String name2="Sayem";
+         String name3= name1+"And " +name2;
+         System.out.println(name3);
 
+         //Strings charAt
+         String namee ="Sayem";
+         System.out.println(namee.charAt(0));
+
+         //string replace
+         String namee1=name.replace('m','b');
+         System.out.println(namee1);
+          
     }
 }
