@@ -24,14 +24,14 @@ public class main {
         boolean - 1 true/false
         */
 
-
+/* 
         byte age =12;
         int phone =1234567890;
         long phone2 = 12345678900L;
         float pi = 3.14F;
         char letter ='@';
         boolean isAdult = false; 
-
+*/
 
         //Non- primitive types
         String name ="Sayem";
@@ -56,7 +56,8 @@ public class main {
 
          //Substring
          String name4 ="Aman And Akku";
-         System.out.println(name4.substring(0,4));
+         System.out.println(name4.substring(5,9));
+
          
           
     }
