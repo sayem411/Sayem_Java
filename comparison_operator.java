@@ -17,5 +17,11 @@ public class comparison_operator {
         else
             System.out.println("Night");
 
+        int age=30;
+        if(age>18)
+            System.out.println("Can vote");
+        else
+            System.out.println("Can't vote");
+
     }
 }
