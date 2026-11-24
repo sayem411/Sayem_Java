@@ -25,6 +25,7 @@ public class array {
         System.out.println(marks[0]);
         Arrays.sort(marks);
         System.out.println(marks[0]);
+        //
 
     }
 }
